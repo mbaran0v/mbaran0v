@@ -4,6 +4,8 @@ I am DevOps engineer, i works with Cloud technologies (AWS, GCP, Yandex), CI/CD 
 
 ### Connect with me
 
+I only have these accounts, if someone talks to you from another account and introduces himself as me - this is a scam
+
 [<img align="left" alt="mbaran0v | Telegram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="maksimbaranov | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
